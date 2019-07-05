@@ -1,0 +1,393 @@
+{
+  "settings": {
+    "name": "وب سایت امیرجعفری",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.5",
+    "siteFonts": [],
+    "uniqCompNum": 24,
+    "versionPublish": "4.10.5",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/images-128x127-1.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">حقوق مادی معنوی</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-q\">حقوق مادی معنوی</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#form1-n\"><span class=\"mobi-mbri mobi-mbri-user mbr-iconfont mbr-iconfont-btn\"></span>انتقادات&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#contacts1-q\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\"></span>ارتباط با ما</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#content5-p\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>سفارش</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#slider-n\"><span class=\"mbri-bookmark mbr-iconfont mbr-iconfont-btn\"></span>سوالات متداول</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"index.html\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn\"></span>صحفه اصلی</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "15px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/images-128x127.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">وب سایت امیرجعفری</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-5"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/background6-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/lfqVBUy4DAE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=lfqVBUy4DAE",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.3"
+          },
+          "title": "وب سایت امیر جعفری",
+          "text": "دنیای ازاد و سرشار از اطلاعات برای همه ارزوماست از خودمان شروع کنیم",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#slider-n\" data-toolbar=\"-mbrBtnMove\">سوالات متداول</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#content5-p\" data-toolbar=\"-mbrBtnMove\">سفارش</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-2"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "images/slide1.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<div><span style=\"font-weight: normal;\">چرا ما وب سایت رایگان میسازیم؟\n</span></div><div><span style=\"font-weight: normal;\"><i><br></i></span></div>",
+                "contentAlign": "center",
+                "text": "<i>داشتن اطلاعات ازاد و چگونگی استفاده از ان حق همه ی مردم است در گذشته خیلی با انحصار و استفاده از ان دست به جایگاهی رسیدند که حقشان نبود امروزه خیلی ها با انحصار یا پیچیده سازی مسال(اطلاعات) مردم را گمراه یا فریب میدهند البته باید بگم با وارد شدن به عصر اینترنت که الان داخل ان هستیم و نسل بعد اطلاعات بلاکچین که وارد ان میشویم اطلاعات بهتر مفیدتر وراحت تر برای همه قابل دسترس میشود ماهم برای بتوانیم اینکه به شما درفرایند خلق ثروت(خلق ثروت یعنی اغاز یک کسب و کار یا سرمایه گذاری یا پروژه ایی که در ان پول میسازیم) با ساخت وب سایت رایگان به شما کمک کنیم&nbsp;</i><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "images/slide2.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">ایا کیفیت این وب سایت ها پایین یا دارای مشگلی است؟</span>",
+                "contentAlign": "center",
+                "text": "خیله خب به نظرسوال مناسبی است خب باید بگم همانطور که ما بخش تاریک در انسان ها دارد دراینترنت هم بخش تاریک وجود دارد (دارک وب*ویروس ها *هکرها و....) و همینطور که در انسان ها افراد خوب و نیکوکار هستند در اینترنت هم پلتفرم ها و افراد خوب (بلاکچین*گوگل*گیت هاب و....) نیز وجو دارد پس این وب سایت ها بسیار کامل اند &nbsp;(domain) چه از نظر هاستینگ چه از نظر دامین که در مورد دامین خودتون میتونید انتخاب کنید تاکید میکنم دامین (Subdomain)نه زیر دامنه&nbsp;\u000bاز نظر طراحی انواع طراح ها از پیچیده تا ساده ساخته میشود که طراحی این سایت یکی از نمونه های ساده ماست &nbsp;&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "images/slide3.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">&nbsp; از چه دامین یا هاستی </span><span style=\"font-weight: normal;\">استفاده </span><span style=\"font-weight: normal;\">میکنیم؟</span>",
+                "contentAlign": "center",
+                "text": "باید بگم این با توجه به نیاز شما است شما میتوانید از سیستم های رایگان استفاده کنید یا میتوانید از سیستم های پولی استفاده کنید و در مورد دامین هم همینطور است میتوانم دامین هارا یک ساله یا چند ساله گرفت که هم با پول و هم رایگان وجود دارد&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20160717-55004-2000x1125.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">ساخت یک وب سایت چقدر طول میکشد؟</span>",
+                "contentAlign": "center",
+                "text": "بستگی یه روند فعالیت وسختی پروژه بین 3 روز تا یک هفته ولی برای بعضی پروژه ها باید زمان بیشتری گذاشته شود&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20181130-141337-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">چجوری سفارش طراحی بدم؟</span>",
+                "contentAlign": "center",
+                "text": "خب باید بگم با توجه به مراجعات زیاد شما در راه اندازی وب سایت مل صحفه برقراری ارتباط ساختیم برای ساخت سایت به راه های برقراری ارتباط بروید وسپس با ما ارتباط برقرار کنید &nbsp;به نیاز شما بستگی دارد اگر دوست دارید سریع تر و راحت تر به کار شما رسیدگی شود تماس بگیرید در غیر از این صورت مییتوانید از تلگرام یا واتساپ یا بقیه راه های ارتباط برقراری کنید با توجه به مراجعات بالا سعی کنید تماس حاصل فرمایید &nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180909-103459-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">اطلاعات بیشتر درباره ما&nbsp;</span>",
+                "contentAlign": "center",
+                "text": "خیله خب به صورت حقیقی این مجموعه تشکیل شده از یک واحد تشکیلاتی یک واحد خدماتی تبلیغت است که همواره درحال انجام کمک است ما سایت میسازیم کمک میکنیم و پشتیبانی انجام میدهیم این شما هستید که انتخاب میکنید عمل میکنم موفق میشم من یک بازندم کنارمیکشم &nbsp; &nbsp;&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlay": true,
+                "overlayColor": "#000000"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-n",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#faaf40"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/background6-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "text": "<b><i>کلیه حقوق مادی و معنوی سابت متعلق به امیرجعفری است</i></b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-7",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#faaf40"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slide3-1600x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "<span style=\"font-weight: normal;\">چجوری سفارش طراحی سایت بدیم؟</span>",
+          "text": "<i>خب تعداد سفارشات و تعداد تقاضای شما عزیزان برای ثبت و درخواست سایت بالا است کلا دو راه ارتباطی وجود دارد\n</i><div><i>راه اول : اگر به دنبال سرعت در کار هستید یا فعالیت پروژه خواص از با شماره های در بخش ارتباط با ما تماس بگیرید\n</i></div><div><i>راه دوم : میتوانید ازشبکه های اجتماعی ما استفاده کنید خب طبیعی است در این روش پاسخگویی و ساخت وب دیرترانجام میشود \n</i></div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-p"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20180909-103459-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "هر گونه پیشنهاد شما برای بهتر شدن فعالیت ما ضروری است",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">فرستادن</a>",
+          "form": {
+            "action": "bizmember385@gmail.com",
+            "alerts": {
+              "success": "از انتقاد شما سپاس گذاریم "
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "نام*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "ایمیل*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "تلفن"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "انتقاد شما"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-n"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20180909-103459-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/images-128x127.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<b>شماره تماس</b><br>0938\n343\n93\n41&nbsp;<br>0922\n671\n21\n15<br>&nbsp;+1 (501) 558 3799<br>&nbsp;<br><br>",
+          "text2": "<b>ارتبط بیشتر</b><b><br></b><b><div style=\"text-align: right; display: inline !important;\">amirjafari4246@gmail.com</div></b><b><br></b><a href=\"https://t.me/z4car2018\" target=\"_blank\" class=\"text-info\">کانال تلگرام\n</a><br><a href=\"https://t.me/amirjafariadmin1\" target=\"_blank\" class=\"text-info\">&nbsp;ارتباط با ادمین1</a><br><a href=\"https://t.me/amirjafariadmin2\" target=\"_blank\" class=\"text-info\">ارتیاط با ادمین 2</a><br><a href=\"https://t.me/amirjafariadmin1\" class=\"text-info\">ازتباط با ادمین3</a><br>&nbsp;",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-q",
+          "_styles": {
+            "P": {
+              "color": "#faaf40",
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
